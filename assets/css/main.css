@@ -170,6 +170,10 @@ input, select, textarea {
 		line-height: 2;
 	}
 
+  input, textarea {
+    margin-bottom: 1em;
+  }
+
 	a {
 		-moz-transition: border-bottom-color 0.25s ease-in-out;
 		-webkit-transition: border-bottom-color 0.25s ease-in-out;

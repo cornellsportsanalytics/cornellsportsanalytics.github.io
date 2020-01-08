@@ -3237,7 +3237,9 @@ input, select, textarea {
 			height: 100%;
 
       /* main background color */
-			background-color: #ff392e;
+			/*background-color: #ff392e;*/
+
+      background-image: url("../../images/overlay.png"), linear-gradient(0deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url("../../images/pic01.jpg");
 
       background-size: auto,								auto,														100% auto;
 			background-position: center,								center,														top center;

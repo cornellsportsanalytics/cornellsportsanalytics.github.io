@@ -4862,3 +4862,8 @@ h4 {
   font-size: 24px;
   text-align: center;
 }
+
+#center-p {
+  text-align: center;
+  font-weight: normal;
+}
